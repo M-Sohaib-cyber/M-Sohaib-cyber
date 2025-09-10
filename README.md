@@ -1,62 +1,33 @@
-# 👋 Hi, I’m Mohammad Sohaib
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Sohaib-cyber/assets/main/banner.gif" alt="Cybersecurity Banner" width="800"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Sohaib-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub followers](https://img.shields.io/github/followers/M-Sohaib-cyber?label=Follow&style=social)](https://github.com/M-Sohaib-cyber)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://yourwebsite.com)
+# 👋 Hi, I'm Mohammad Sohaib  
 
----
-
-## 🔎 About Me
-I’m a **Cybersecurity & Networking student (BSc Hons)** with passion for:  
-- 🕵️‍♂️ Ethical Hacking & Penetration Testing  
-- 🔬 Digital Forensics & Memory Analysis  
-- 🌐 Networking & Security  
-
-I document my projects, cheat sheets, and hands-on labs here on GitHub.
+🎓 Cybersecurity & Networking Student (UK)  
+🔐 Passionate about Ethical Hacking | Digital Forensics | Networking  
+📂 Building projects in security, forensics, and automation  
 
 ---
 
-## 🛠️ Skills & Tools
-
-| Category       | Skills / Tools |
-|----------------|----------------|
-| Networking     | TCP/IP, DNS, DHCP, VPNs, Firewalls, Wireshark |
-| Cybersecurity  | Ethical Hacking, Penetration Testing, Web Security |
-| Forensics      | Volatility 3, Autopsy, Registry Viewer, Chrome Artifacts |
-| Programming    | Python |
-| OS             | Linux (Kali, Ubuntu), Windows |
+## 🚀 About Me
+- 🖥️ Experience in **Digital Forensics** (RAM & Disk analysis with Volatility 3, Autopsy).  
+- 🌍 Networking background: Cisco configs, Linux admin, and network security.  
+- 🛠️ Skilled in **Python, Bash, Git/GitHub**.  
+- 📖 Always learning new tools in ethical hacking & incident response.  
 
 ---
 
-## 💻 Projects & Cheat Sheets
+## 🛠️ Skills & Tools  
 
-### 🔹 Digital Forensics Case Study: Jim Cloudy
-Full forensic investigation using RAM & disk analysis.  
-**Tools:** Volatility 3, Autopsy, Chrome artifacts  
-[View Project](https://github.com/M-Sohaib-cyber/jim-cloudy-forensics)
+### 🔹 Cybersecurity & Forensics  
+![Volatility 3](https://img.shields.io/badge/Volatility3-3B82F6?style=for-the-badge)  
+![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge)  
+![Wireshark](https://img.shields.io/badge/Wireshark-0080FF?style=for-the-badge&logo=wireshark)  
+![Nmap](https://img.shields.io/badge/Nmap-red?style=for-the-badge&logo=nmap)  
 
-### 🔹 Networking Cheat Sheet
-50+ pages of networking configurations and commands.  
-[View Cheat Sheet](https://github.com/M-Sohaib-cyber/networking-cheatsheet)
-
-### 🔹 Ethical Hacking Labs & Scripts
-Hands-on hacking scripts, labs, and practical exercises coming soon.
-
----
-
-## 📈 GitHub Stats
-
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Sohaib-cyber&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sohaib-cyber&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Sohaib-cyber&theme=dark)
-
----
-
-## 🔗 Connect with Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Mohammad Sohaib](https://www.linkedin.com/in/your-linkedin)  
-- 🌐 GitHub: [M-Sohaib-cyber](https://github.com/M-Sohaib-cyber)
-
----
-
+### 🔹 Programming & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+![GitHub](https://img.sh)
