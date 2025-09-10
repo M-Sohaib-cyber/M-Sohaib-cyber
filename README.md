@@ -39,7 +39,7 @@
 
 ## 📫 Contact Me
 - **Email**: mohammdsohaib1096@gmail.com  
-- **LinkedIn**: [linkedin.com/in/mohammad-sohaib](https://linkedin.com/in/mohammad-sohaib)  
+- **LinkedIn**: [linkedin.com/in/mohammad-sohaib](https://www.linkedin.com/in/mohammad-sohaib-939a2a1ab/)  
 - **GitHub**: [M-Sohaib-cyber](https://github.com/M-Sohaib-cyber)  
 
 ---
