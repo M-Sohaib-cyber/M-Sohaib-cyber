@@ -29,8 +29,8 @@
 - 🔎 [Digital Forensics Case Study: Jim Cloudy](https://github.com/M-Sohaib-cyber/jim-cloudy-forensics)  
   *Analyzed memory and disk evidence using Autopsy and Volatility 3.*  
 
-- 📘 Networking Configurations (coming soon)  
-  *Collection of Cisco and networking configuration cheat sheets.*  
+- 📘 [Networking Configuration](https://github.com/M-Sohaib-cyber/Networking-Configuration)  
+  *Custom Cisco CLI commands, CCNA references, and hands-on labs.*  
 
 - 🛡️ Ethical Hacking Labs (coming soon)  
   *Documenting hands-on penetration testing practice.*  
