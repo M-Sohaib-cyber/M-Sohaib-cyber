@@ -35,8 +35,8 @@
 - 🌦️ [MCP Weather Bot](https://github.com/M-Sohaib-cyber/mcp-weather-bot)  
   *A Node.js API that fetches live weather data with current conditions and a 3-day forecast. Uses Express, dotenv, and WeatherAPI.*
 
-- 🛡️ Ethical Hacking Labs (coming soon)  
-  *Documenting hands-on penetration testing practice.*  
+- 🛡️ [Ethical Hacking Labs](https://github.com/M-Sohaib-cyber/Ethical-Hacking-Labs)  
+  *A growing collection of small security tools for penetration testing practice, including a Python Port Scanner and more to come.*   
 
 ---
 
