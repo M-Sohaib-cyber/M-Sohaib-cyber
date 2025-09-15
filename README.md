@@ -30,7 +30,10 @@
   *Analyzed memory and disk evidence using Autopsy and Volatility 3.*  
 
 - 📘 [Networking Configuration](https://github.com/M-Sohaib-cyber/Networking-Configuration)  
-  *Custom Cisco CLI commands, CCNA references, and hands-on labs.*  
+  *Custom Cisco CLI commands, CCNA references, and hands-on labs.*
+
+  - 🌦️ [MCP Weather Bot](https://github.com/M-Sohaib-cyber/mcp-weather-bot)  
+  *A Node.js API that fetches live weather data with current conditions and a 3-day forecast. Uses Express, dotenv, and WeatherAPI.*
 
 - 🛡️ Ethical Hacking Labs (coming soon)  
   *Documenting hands-on penetration testing practice.*  
