@@ -55,7 +55,7 @@
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-msk.tech43%40gmail.com-red?logo=gmail)](mailto:msk.tech43@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Sohaib-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-sohaib-939a2a1ab/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Sohaib-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-sohaib-939a2a1ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-M--Sohaib--cyber-black?logo=github)](https://github.com/M-Sohaib-cyber)  
 ---
 
