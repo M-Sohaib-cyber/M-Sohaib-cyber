@@ -26,8 +26,8 @@
 ---
 
 ## 📂 Projects
-- 📠 [AutoML Anomaly Detection IDS] (https://github.com/M-Sohaib-cyber/automl-anomaly-detection-ids)
-  *Fully automated machine learning pipeline for detecting anomalies in network traffic using the UNSW-NB15 dataset.*
+- 🧠 [AutoML Anomaly Detection IDS](https://github.com/M-Sohaib-cyber/automl-anomaly-detection-ids)  
+  Designed a fully automated feature-centric AutoML pipeline for network anomaly detection, leveraging UNSW-NB15 with advanced feature engineering, representation learning, and model optimisation.
   
 - 🔎 [Digital Forensics Case Study: Jim Cloudy](https://github.com/M-Sohaib-cyber/jim-cloudy-forensics)  
   *Analyzed memory and disk evidence using Autopsy and Volatility 3.*  
