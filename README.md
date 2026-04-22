@@ -26,6 +26,8 @@
 ---
 
 ## 📂 Projects
+- 📠 [AutoML Anomaly Detection IDS] (https://github.com/M-Sohaib-cyber/automl-anomaly-detection-ids)
+  *
 - 🔎 [Digital Forensics Case Study: Jim Cloudy](https://github.com/M-Sohaib-cyber/jim-cloudy-forensics)  
   *Analyzed memory and disk evidence using Autopsy and Volatility 3.*  
 
