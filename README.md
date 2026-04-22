@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mohammad Sohaib  
 
-🎓 Cybersecurity & Networking Student | 🔐 Future Ethical Hacker | 💻 Passionate About Digital Forensics  
+🎓 Cybersecurity & Networking Student | 🔐 Future Ethical Hacker | 💻 Passionate About Pentesting & Digital Forensics  
 
 ---
 
