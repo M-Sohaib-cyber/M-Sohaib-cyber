@@ -4,12 +4,12 @@
 
 # 👋 Hi, I'm Mohammad Sohaib  
 
-🎓 Cybersecurity & Networking Student | 🔐 Future Ethical Hacker | 💻 Passionate About Pentesting & Digital Forensics  
+🎓 Cybersecurity & Networking Graduate | First-Class BSc | SOC, Network Security & Digital Forensics 
 
 ---
 
 ## 🚀 About Me
-- Final year **BSc (Hons) Networks and Cyber Security** student.  
+- First class Graduate **BSc (Hons) Networks and Cyber Security** Northumbria University.  
 - Strong interest in **ethical hacking, penetration testing, and digital forensics**.  
 - Hands-on experience with **Autopsy, Volatility, Kali Linux, Wireshark**, and more.  
 - Building projects and sharing notes to **document my learning journey**.  
@@ -17,11 +17,12 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Networking**: Cisco Packet Tracer, Wireshark  
-- **Cybersecurity**: Kali Linux, Metasploit, Burp Suite  
-- **Digital Forensics**: Autopsy, Volatility 3  
-- **Programming**: Python (beginner), Bash (basic)  
 - **Operating Systems**: Windows, Linux (Ubuntu, Kali)  
+- **Networking & Infrastructure**: TCP/IP, DNS, DHCP, Routing, Switching, Network Troubleshooting, Network Segmentation, Firewalls
+- **Systems & Operating Systems**: Linux (Kali, Ubuntu CLI), Windows Server, Active Directory (GPOs, Access Control), VirtualBox, VMware
+- **Cybersecurity & Tools**: Nmap, Burp Suite, Wireshark, Snort (IDS/IPS), Volatility 3, FTK Imager, Endpoint Security Concepts
+- **Security Monitoring & Analysis**: Log Analysis, Sysmon, Windows Event Viewer, Google Chronicle (Foundational SIEM Knowledge)
+- **Programming & Automation**: Python (Automation, Data Analysis), PowerShell (Basic System Administration), Bash/Shell Scripting
 
 ---
 
